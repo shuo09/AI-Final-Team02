@@ -2,12 +2,14 @@
 
 Input 1: 交易新手輸入:「我該如何開始學習交易?」
 Output 1: 機器人給出學習流程架構，包含技術分析、風險控管、止盈止損等。
+
 Input 2: 交易新手輸入:「甚麼是止盈?」
 Output 2: 機器人根據專有名詞關鍵字，給出詳細的定義以及具體操作方法。
+
 Input 3: 交易新手輸入:「明天比特幣會漲嗎?」
 Output 3: 機器人根據訓練資料的技術分析策略，如SMC/ICT或價格行為等，結合目前行情給出一套具體分析邏輯。
 
-4.	Related works
+Related works
 
 (1)	其中一位組員之前透過ChatGPT 4提供系統所訓練的GPT:
 https://chat.openai.com/g/g-pNt5jWrmO-cryptoadou-gpt
