@@ -8,9 +8,12 @@ Input 3: 交易新手輸入:「明天比特幣會漲嗎?」
 Output 3: 機器人根據訓練資料的技術分析策略，如SMC/ICT或價格行為等，結合目前行情給出一套具體分析邏輯。
 
 4.	Related works
+
 (1)	其中一位組員之前透過ChatGPT 4提供系統所訓練的GPT:
 https://chat.openai.com/g/g-pNt5jWrmO-cryptoadou-gpt
+
 (2)	加密貨幣交易所Bybit推出的公開TradeGPT:
 https://www.bybit.com/zh-TW/tools-discovery/chat
+
 (3)	加密貨幣交易所Pionex推出的PionexGPT:
 https://www.pionex.com/zh-TW/chat
